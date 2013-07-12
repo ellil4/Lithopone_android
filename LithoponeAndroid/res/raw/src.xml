@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- 被2012 () 使用XMLSpy v编辑的 (http://www.altova.com) by -->
+<test casual_size="UNKNOWN" description="雅安震后儿童青少年量表套件" graphic_casual="false" graphic_selection="false" id="4" item_count="36" name="YAAN" selection_size="UNKNOWN" text_casual="true" text_selection="true" version="1000">
+	<item id="0" res_id="-1">
+		<item_casual>Shock：
+		当遇到地震时，很多儿童及青少年会感到有压力。请想一想地震，然后就过去的两周内的情况，在以下题目中选出适合你的选项。</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>点此后点击“下一题”以开始测验</casual>
+		</selection>
+	</item>
+	<item id="1" res_id="-1">
+		<item_casual>你会无意中想起地震吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="2" res_id="-1">
+		<item_casual>你会尝试将地震从记忆中除去吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="3" res_id="-1">
+		<item_casual>你的专注力或注意力有困难吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="4" res_id="-1">
+		<item_casual>你会不断地对地震有强烈的感觉吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="5" res_id="-1">
+		<item_casual>与未发生地震之前相比，你会更容易受惊或感到紧张吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="6" res_id="-1">
+		<item_casual>你会避开一些令你想起地震的东西吗（例如：某些地方或场合）？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="7" res_id="-1">
+		<item_casual>你会尝试不去谈及地震吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="8" res_id="-1">
+		<item_casual>地震的情景会在你脑中出现吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="9" res_id="-1">
+		<item_casual>其它东西会不断令你想起地震吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="10" res_id="-1">
+		<item_casual>你会尝试不去想地震吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="11" res_id="-1">
+		<item_casual>你会容易感到烦躁吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="12" res_id="-1">
+		<item_casual>就算是不必要，你仍会保持警觉吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="13" res_id="-1">
+		<item_casual>你睡觉有问题吗？</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>完全没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="5">
+			<casual>经常</casual>
+		</selection>
+	</item>
+	<item id="14" res_id="-1">
+		<item_casual>Recover:
+		下面是一些有关心理健康状况的问题，请根据您近一个月来的实际情况，在每道题的选项中选择一个最适合的答案。</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>点此后点击“下一题”开始作答</casual>
+		</selection>
+	</item>
+	<item id="15" res_id="-1">
+		<item_casual>当发生变化时，我能够适应</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="16" res_id="-1">
+		<item_casual>不管我的人生路途中发生任何事情，我都能处理</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="17" res_id="-1">
+		<item_casual>当我面对问题时，我试着去看事情积极的一面</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="18" res_id="-1">
+		<item_casual>由于经历过磨砺，我变得更坚强了</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="19" res_id="-1">
+		<item_casual>在生病、受伤或苦难之后，我很容易就能调整过来</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="20" res_id="-1">
+		<item_casual>纵然有障碍，我相信我能够实现我的目标</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="21" res_id="-1">
+		<item_casual>在压力下，我能够精神集中地思考问题</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="22" res_id="-1">
+		<item_casual>我不会轻易地被失败打倒</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="23" res_id="-1">
+		<item_casual>当处理生命中的挑战和困难时，我想我是一个坚强的人</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="24" res_id="-1">
+		<item_casual>我能够处理一些不愉快或痛苦的感觉，例如悲伤、害怕和生气</item_casual>
+		<selection id="0" res_id="-1" value="1">
+			<casual>从来没有</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="2">
+			<casual>很少</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="3">
+			<casual>有时</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="4">
+			<casual>经常</casual>
+		</selection>
+		<selection id="4" res_id="-1" value="5">
+			<casual>总是</casual>
+		</selection>
+	</item>
+	<item id="25" res_id="-1">
+		<item_casual>PTGI-C:
+		有些事情会随着时间的流逝而发生变化，而有的事情则不是。例如，你生活中的有些事情就与地震发生以前有很大的不同了，而有些事情则没有发生变化。希望你谈一谈地震之后你的生活发生了什么样的变化？有些孩子说：在地震之后，他们对自己的认识以及自己感受和思考周围世界的方式发生了变化。你感受到自己的变化吗？你发现地震之后你有了哪些变化？			</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>点此后点击“下一题”开始作答</casual>
+		</selection>
+	</item>
+	<item id="26" res_id="-1">
+		<item_casual>我更加认识到人们是多么友好</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="27" res_id="-1">
+		<item_casual>我发现自己能够更好地应对一些生活中的大问题</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="28" res_id="-1">
+		<item_casual>我知道了什么对自己来说是重要的</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="29" res_id="-1">
+		<item_casual>我能更好地了解生活的意义等精神方面的事物</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="30" res_id="-1">
+		<item_casual>我与其他人（家人、朋友、同学）更加亲近了</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="31" res_id="-1">
+		<item_casual>我能够更好地欣赏和享受每一天的生活</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="32" res_id="-1">
+		<item_casual>我有机会做我以前不可能做的事情了</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="33" res_id="-1">
+		<item_casual>我的精神信念或信仰变得更加坚定了</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="34" res_id="-1">
+		<item_casual>我能够处理或应对更多的事情了</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+	<item id="35" res_id="-1">
+		<item_casual>我对自己长大之后想要过的生活有了更多的想法</item_casual>
+		<selection id="0" res_id="-1" value="0">
+			<casual>没有变化</casual>
+		</selection>
+		<selection id="1" res_id="-1" value="1">
+			<casual>变化很小</casual>
+		</selection>
+		<selection id="2" res_id="-1" value="2">
+			<casual>有些变化</casual>
+		</selection>
+		<selection id="3" res_id="-1" value="3">
+			<casual>变化很大</casual>
+		</selection>
+	</item>
+</test>
